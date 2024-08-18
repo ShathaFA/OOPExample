@@ -1,0 +1,14 @@
+c:\Users\YOGA\Downloads\OOPExample\OOPExample\bin\Debug\net8.0\OOPExample.exe
+c:\Users\YOGA\Downloads\OOPExample\OOPExample\bin\Debug\net8.0\OOPExample.deps.json
+c:\Users\YOGA\Downloads\OOPExample\OOPExample\bin\Debug\net8.0\OOPExample.runtimeconfig.json
+c:\Users\YOGA\Downloads\OOPExample\OOPExample\bin\Debug\net8.0\OOPExample.dll
+c:\Users\YOGA\Downloads\OOPExample\OOPExample\bin\Debug\net8.0\OOPExample.pdb
+c:\Users\YOGA\Downloads\OOPExample\OOPExample\obj\Debug\net8.0\OOPExample.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\YOGA\Downloads\OOPExample\OOPExample\obj\Debug\net8.0\OOPExample.AssemblyInfoInputs.cache
+c:\Users\YOGA\Downloads\OOPExample\OOPExample\obj\Debug\net8.0\OOPExample.AssemblyInfo.cs
+c:\Users\YOGA\Downloads\OOPExample\OOPExample\obj\Debug\net8.0\OOPExample.csproj.CoreCompileInputs.cache
+c:\Users\YOGA\Downloads\OOPExample\OOPExample\obj\Debug\net8.0\OOPExample.dll
+c:\Users\YOGA\Downloads\OOPExample\OOPExample\obj\Debug\net8.0\refint\OOPExample.dll
+c:\Users\YOGA\Downloads\OOPExample\OOPExample\obj\Debug\net8.0\OOPExample.pdb
+c:\Users\YOGA\Downloads\OOPExample\OOPExample\obj\Debug\net8.0\OOPExample.genruntimeconfig.cache
+c:\Users\YOGA\Downloads\OOPExample\OOPExample\obj\Debug\net8.0\ref\OOPExample.dll
