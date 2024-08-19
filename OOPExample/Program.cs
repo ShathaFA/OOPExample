@@ -5,8 +5,8 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Encapsulation and Abstraction
-        Console.WriteLine("Encapsulation and Abstraction");
+        // Encapsulation 
+        Console.WriteLine("Encapsulation");
         Person person = new Person("Alice", 30);
         person.DisplayInfo();
         
@@ -18,7 +18,18 @@ class Program
         // Abstraction
         Console.WriteLine("Abstraction");
         Animal dog = new Dog();
+        dog.Name = "Buddy";
+         Console.WriteLine(dog.Name);
+
         dog.MakeSound();
         dog.Sleep();
+        dog.Eat();
+        
+        IPlayable obj1=new MusicPlayer();
+        obj1.Play();
+        obj1.Stop();
+
+
+
     }
 }

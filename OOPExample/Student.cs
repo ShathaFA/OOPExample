@@ -8,6 +8,7 @@ public class Student : Person
     // Constructor calling base constructor
     public Student(string name, int age, string school) : base(name, age)
     {
+        // base means meebers from the parent class
         this.School = school;
     }
 

@@ -12,3 +12,4 @@ c:\Users\YOGA\Downloads\OOPExample\OOPExample\obj\Debug\net8.0\refint\OOPExample
 c:\Users\YOGA\Downloads\OOPExample\OOPExample\obj\Debug\net8.0\OOPExample.pdb
 c:\Users\YOGA\Downloads\OOPExample\OOPExample\obj\Debug\net8.0\OOPExample.genruntimeconfig.cache
 c:\Users\YOGA\Downloads\OOPExample\OOPExample\obj\Debug\net8.0\ref\OOPExample.dll
+c:\Users\YOGA\Downloads\OOPExample\OOPExample\obj\Debug\net8.0\OOPExample.sourcelink.json

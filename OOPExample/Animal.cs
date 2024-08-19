@@ -9,4 +9,13 @@ public abstract class Animal
     {
         Console.WriteLine("Sleeping...");
     }
+     public string Name { get; set; } // Property common to all animals
+
+    public void Eat()
+    {
+        Console.WriteLine("Eating...");
+    }
+
+   
+    
 }
